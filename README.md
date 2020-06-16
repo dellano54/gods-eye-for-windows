@@ -2,9 +2,8 @@
 gods eye for windows is a windows version of gods-eye ip-tracker released before.
 # instruction for install gods-eye in windows
 ```
-git clone https://github.com/dellano54/gods-eye-for-windows.git
-#open cmd as administratorin the folder
-install.bat
+Pip3 install -r requirements.txt
+Python3 gods-eye.py
 ```
 # screenshots
 ![we are having an error in displaying image.we will fix it soon.](https://raw.githubusercontent.com/dellano54/gods-eye-for-windows/master/screenshot/Screenshot_2020-06-15_10-30-41.png)
